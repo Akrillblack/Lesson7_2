@@ -16,7 +16,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.start()
         self.inputText()
-        print("for test commit")
     }
     
     // to be fixed using Display heigh
